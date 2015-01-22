@@ -1,1 +1,7 @@
 hello github.
+
+[How to use]
+【get_href_url.php】 
+$ php get_href_url.php "http://{any url}"
+
+
